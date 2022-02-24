@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The absolute and peremptory decree of election to eternal glory reprobated in a sermon preached before the university in Great St. Maries Church in Cambridge / by Robert Neville ...</title>
+            <author>Neville, Robert, 1640 or 1-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52856</idno>
+            <idno type="STC">Wing N518</idno>
+            <idno type="STC">ESTC R7829</idno>
+            <idno type="EEBO-CITATION">13241544</idno>
+            <idno type="OCLC">ocm 13241544</idno>
+            <idno type="VID">98630</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52856)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98630)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 430:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The absolute and peremptory decree of election to eternal glory reprobated in a sermon preached before the university in Great St. Maries Church in Cambridge / by Robert Neville ...</title>
+                  <author>Neville, Robert, 1640 or 1-1694.</author>
+               </titleStmt>
+               <extent>[7], 30, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benj. Billingsley ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisements: p. [1] at end.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  N.T. --  Ephesians I, 4 --  Sermons.</term>
+               <term>Election (Theology) --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98630:1"/>
+            <pb facs="tcp:98630:1" rendition="simple:additions"/>
+            <p>THE ABSOLUTE AND <hi>Peremptory Decree</hi> OF ELECTION TO ETERNAL GLORY REPROBATED.</p>
+            <p>In A SERMON Preached before the Univerſity in Great St. <hi>MARIES</hi> Church in <hi>CAMBRIDGE.</hi>
+            </p>
+            <p>By <hi>Robert Neville,</hi> B. D. Rector of <hi>Anſty.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benj. Billingſley,</hi> at the Printing Preſs under the <hi>Piazza</hi> of the <hi>Royal Exchange,</hi> 1682.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:98630:2" rendition="simple:additions"/>
+            <pb facs="tcp:98630:2"/>
+            <head>To my Truely HONOURED FRIEND, and <hi>quondam</hi> Chamberfellow at KINGS COLLEDGE IN CAMBRIDGE. <hi>THOMAS FO<g ref="char:V">Ʋ</g>NTAIN,</hi> 
+               <abbr>Eſq</abbr>
+            </head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>THere are two dangerous Opinions in the World, againſt which, as a<g ref="char:EOLhyphen"/>gainſt two Rocks, we may ſuffer Shipwrack, <hi>Pelagianiſm</hi> on the One hand, and <hi>Calviniſm</hi> on the other; theſe are the <hi>Scylla</hi> and <hi>Charybdis,</hi> between which if we do not ſteer our Courſe evenly and care<g ref="char:EOLhyphen"/>fully,
+<pb facs="tcp:98630:3"/>we may Ruin and <g ref="char:V">Ʋ</g>ndo our ſelves: <hi>Pelagianiſm</hi> pleads too much for a Natural Power and ſtrength in man; it aſcribes too much to man, and makes him by Nature Omnipotent; it makes a God of him in Po<g ref="char:EOLhyphen"/>wer and ſtrength: And <hi>Calviniſm,</hi> like <hi>Meduſa</hi>'s head in the Poet, turns men in<g ref="char:EOLhyphen"/>to ſtones, robs them of all their Powers and Faculties, and determines them irreſiſtibly to all their Actions, by a Neceſsity no leſs unavoidable, than the falling ſtone moves towards the Center; the latter of theſe Opi<g ref="char:EOLhyphen"/>nions wrongs Nature in defect, by allowing her no ſtrength, which by Conſequence must make men deſperate; the first wrongs Na<g ref="char:EOLhyphen"/>ture in Exceſs, by allowing it too much ſtrength, which must needs blow men up with too ſwelling a Confidence; and both of them do equally destroy the reaſon of our Application to God for ſtrength; for neither will the man that is well in Conceit, nor yet the deſperate, apply himſelf to a Phyſician; becauſe the
+<pb facs="tcp:98630:3"/>one cries there is no need, the other, there is no help. The former of theſe two, namely <hi>Pelagianiſm,</hi> ſets up and trafficks upon its own Credit, and depends upon the large ſtock of its own natural Abilities; and ſcorns to own the Grace of God ſo far, as to take it into a ſhare and Partnerſhip with it: The other, namely <hi>Calviniſm</hi> breaks, when it needs not, and then declares it ſelf a bank<g ref="char:EOLhyphen"/>rupt, and pretends Inſufficiency, that ſo it may upon eaſier terms Compound with God for its debt of Obedience; becauſe the Abſo<g ref="char:EOLhyphen"/>lute Decree of Reprobation hath taught men to fancy they have no power, it alſo makes them to have no Will to obtain Salvation; They are of opinion, that the Goats are more numerous than thoſe few Sheep, which are within the little Fold of the Abſolute De<g ref="char:EOLhyphen"/>cree of Election; which is diametrically Oppoſite to St. <hi>Pauls</hi> Doctrine, <hi>1 Tim. 2.4.</hi> That <hi>Chriſt will have all men to be ſaved;</hi> and as contrary to St. <hi>Peters 2 Pet.
+<pb facs="tcp:98630:4"/>3.9.</hi> who affirms, that <hi>the Lord is not willing that any ſhould periſh, but that all ſhould come to Repentance;</hi> and ha<g ref="char:EOLhyphen"/>ving ſo good Seconds as theſe, I ſhall not need to fear to enter into the Lists againſt the Aſ<g ref="char:EOLhyphen"/>ſerters of that unjuſt <hi>Decree;</hi> A <hi>Decree</hi> too Arbitrary and Tyrannical to be Enacted by the juſt, gratious, and merciful King of Kings; A <hi>Decree,</hi> as Arbitrary as that Go<g ref="char:EOLhyphen"/>vernment, their great Patron <hi>Calvin</hi> ſet up at <hi>Geneva,</hi> after the Expulſion of their Law<g ref="char:EOLhyphen"/>ful Biſhop; to whoſe both doctrine and diſ<g ref="char:EOLhyphen"/>cipline your great Reaſon and Learning have always made you a profeſſed Enemy; ſo that I aſſure my ſelf that you will kindly accept of, and not paſs your <hi>Decree</hi> of Reprobation a<g ref="char:EOLhyphen"/>gainſt this diſcourſe now devoted to you by</p>
+            <closer>
+               <salute>Honoured Sir,</salute> 
+               <signed>Your Faithful and humble Servant, <hi>R. Neville.</hi>
+               </signed>
+               <dateline>Anſty, <date>
+                     <hi>Octob. 25. 1682.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:98630:4"/>
+            <head>A SERMON Preached before the UNIVERSITY, At Great St. <hi>MARIES</hi> CHURCH IN CAMBRIDGE.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>EPHES. I. the former part of the 4th. Verſe.</hi>
+                  </bibl>
+                  <p>According as he hath choſen us in him before the Founda<g ref="char:EOLhyphen"/>tion of the World.</p>
+               </q>
+            </epigraph>
+            <p>THere is no one Conceit that engageth men ſo ſtrongly to perſiſt in Sin, as the Perſwaſion that Gods Irreſiſtible De<g ref="char:EOLhyphen"/>cree is the Cauſe or all Events, of all their
+<pb n="2" facs="tcp:98630:5"/>Actions; and though they are not arrived to ſo high a degree of Blaſphemy, as to adventure to Define God, <hi>totidem verbis,</hi> the Author of Sin: yet (which is tantamount) ſome men are of Opinion, that becauſe all things depend on Gods Decree; all the Sins they commit, are entailed upon them by <hi>A Fatal Neceſsity;</hi> and that they are but as ſo many links of one <hi>Fatal Chain,</hi> wherewith they are fetter'd and faſt bound to Satan; and that all their Care and Induſtry can<g ref="char:EOLhyphen"/>not take off one Link from that Chain; nor De<g ref="char:EOLhyphen"/>duct one ſingle tranſgreſſion from the whole Sum, and numberleſs number of their iniqui<g ref="char:EOLhyphen"/>ties.</p>
+            <p>Others again, on the other hand, think they have Gods <hi>Abſolute Decree</hi> for their ſecurity; and ground their hopes of Heaven upon no other baſis, no other bottom, letting looſe the reins to all licentiouſneſs, becauſe they aſſure themſelves that Gods Decree of <hi>Election</hi> to <hi>Eter<g ref="char:EOLhyphen"/>nal Glory</hi> is paſs't in favour of them: When a<g ref="char:EOLhyphen"/>laſs, that <hi>Decree</hi> of <hi>Election,</hi> which they build upon, is groſly miſtaken by them: God having deter<g ref="char:EOLhyphen"/>min'd by his Decree of giving Chriſt, to call men from a vicious courſe of Life to Chriſtianity; which is onely an <hi>Election</hi> to <hi>Evangelical Grace</hi> and <hi>Holineſs;</hi> and a <hi>ſeparating</hi> men to the participa<g ref="char:EOLhyphen"/>tion of thoſe ſingular benefits, contained in the
+<pb n="3" facs="tcp:98630:5"/>Goſpel, not an Abſolute Decree of Election to Eternal glory, without any regard of their Works and Actions: and this is clear and evi<g ref="char:EOLhyphen"/>dent from this Clauſe of the verſe, that con<g ref="char:EOLhyphen"/>tains my Text, <hi>[that we ſhould be Holy and with<g ref="char:EOLhyphen"/>out blame before him,]</hi> which immediately fol<g ref="char:EOLhyphen"/>lows theſe words of my Text, <hi>According as he hath choſen us in him before the Foundation of the World.</hi>
+            </p>
+            <p>In which words are theſe two general parts.</p>
+            <p>Firſt, <hi>Gods Eternal Decree of Election [He hath choſen us before the Foundation of the World.]</hi>
+            </p>
+            <p>Secondly, The <hi>Authour,</hi> the <hi>Procurer</hi> of this <hi>Decree,</hi> namely Chriſt, <hi>[He hath choſen us in him]</hi> in or through Chriſt:</p>
+            <p>Firſt on the</p>
+            <p>Firſt, Or <hi>Gods Eternal Decree of Election [He hath choſen us before the Foundation of the World]</hi> for the better underſtanding whereof, 'tis neceſſa<g ref="char:EOLhyphen"/>ry to acquaint you with a threefold acceptation of this word <hi>[Election.]</hi>
+            </p>
+            <p>Firſt, It imports ſome ſpecial Dignation and Favour, or a ſpecial ſeparation of ſome perſons, to any particular Office or Function: in which
+<pb n="4" facs="tcp:98630:6"/>ſenſe, <hi>Luke</hi> 6.13. Chriſt is ſaid to have choſen twelve, whom he named Apoſtles: Or elſe it implies ſome eminent Prerogative, and Digni<g ref="char:EOLhyphen"/>ty, given to one above another, without any intention of excluding the perſon, that is not ſo Dignified, from Eternal Salvation; and in this ſenſe I take thoſe words, <hi>Rom.</hi> 9.11. <hi>that the purpoſe of God according to Election might ſtand;</hi> where the word <hi>[Election]</hi> ſignifies a ſpecial ſeparation of <hi>Jacob,</hi> to an eminency and Prerogative above <hi>Eſau;</hi> becauſe God had ſaid <hi>verſe</hi> 12. <hi>The Elder ſhall ſerve the Younger;</hi> and <hi>verſe</hi> 13. <hi>Jacob have I loved, but Eſau have I hated,</hi> but this is not the ſenſe that the Text here ſpeaks.</p>
+            <p>Secondly, The word, Election, or Chooſing, imports a peremptory Decree of Election to Eternal Life: and in this notion 'tis moſt fre<g ref="char:EOLhyphen"/>quently taken by Divines; but the word [Cho<g ref="char:EOLhyphen"/>ſen] in the Text will neither admit of this ſenſe; but imports rather</p>
+            <p>Thirdly, An Election to Evangelical Grace, or Gods free and undeſerved Mercy, in Decree<g ref="char:EOLhyphen"/>ing to beſtow Chriſt upon all, as the moſt Effectual meanes to engage men to Holineſs of Life; that is, by what Chriſt hath done
+<pb n="5" facs="tcp:98630:6"/>and ſuffered, for Gentiles as well as Jews, to call and bring home ſinners of all ſorts to Re<g ref="char:EOLhyphen"/>pentance; and this farther appears from the ninth and tenth verſes of the chapter of my Text, where, <hi>the Myſtery of his will ac<g ref="char:EOLhyphen"/>cording to his own good pleaſure</hi> (which is all one with his chooſing us, here in the Text) is ſpecified to be, the gathering of all things, both Jews and Gentiles together in Chriſt: and this is the Subject of the ſecond chapter, and of a great part of this Epiſtle.</p>
+            <p>Now that theſe words <hi>[He hath choſen]</hi> im<g ref="char:EOLhyphen"/>ply onely an Election to Evangelical Grace, and not any Abſolute Decree of Election to Eternal Glory; I ſhall further evince and manifeſt to you, by theſe following reaſons and arguments;</p>
+            <p>Firſt, Becauſe God hath declared in Scrip<g ref="char:EOLhyphen"/>ture, that thoſe, who believe in Chriſt, and perſevere in that Faith, ſhall be ſaved; and that ſuch, as will not believe in Chriſt, nor perſevere in that Faith, ſhall be Damned; Which declaration of his is inconſiſtent with any ſuch Abſolute Decree.</p>
+            <p>Now the Adequate Objects of the Divine and Peremptory Election to Eternal Glory, are All, and onely Such, who believe in Chriſt,
+<pb n="6" facs="tcp:98630:7"/>and perſevere and dye in that Faith: and the Objects of Reprobation are ſuch, and onely ſuch, who either believe not, or perſevere not in their Faith: <hi>John</hi> 3.36. <hi>He that believeth on the ſon, hath everlaſting life, and he that believeth not the ſon ſhall not ſee life, but the wrath of God abideth on him:</hi> and <hi>John</hi> 6.40. <hi>This is the will of him that ſent me, that every one, which believeth on the ſon, may have everlaſting life.</hi> And as the objects of the Divine Election are ſuch as believe, ſo are they alſo ſuch as perſevere in that Faith, <hi>Matth.</hi> 24.13. <hi>He that ſhall endure to the end, the ſame ſhall be ſaved,</hi> and the firſt Epiſtle of <hi>John</hi> 2.24. <hi>If that which ye have heard from the beginning ſhall remain in you, ye alſo ſhall continue in the ſon, and in the father;</hi> i. e. you ſhall continue in the favour of God. From which places of Scripture it is clear and eminent, that when any mention is made of Gods Will and Decree, either of ſa<g ref="char:EOLhyphen"/>ving or damning any; no other Will or De<g ref="char:EOLhyphen"/>cree, of his is meant, but onely that, whereby he will ſave Believers, and damn all Unbelie<g ref="char:EOLhyphen"/>vers.</p>
+            <p>Secondly, No <hi>Abſolute Decree</hi> can be inferr'd either from this, or any other Text of Scrip<g ref="char:EOLhyphen"/>ture; becauſe thereby we ſhould deſtroy the nature of Grace and Virtue; which are nothing
+<pb n="7" facs="tcp:98630:7"/>elſe, but an Habitual Power and ability in the rational Soul of man, to bear all ſenſible pain and loſs, and forbear all ſenſible pleaſure and profit, out of love to Reaſon, and the Divine Law: this excellent power and ability of the Soul, as far as 'tis natural, or acquir'd by our own acts and endeavours, is of moral Conſidera<g ref="char:EOLhyphen"/>tion; but as it is ſupernaturally wrought in the Soul, or infuſed into it by the Spirit of God, ſo far it concerns Theology, and is above the ſphere of morality; but becauſe Grace is confeſt by all to be the perfection of Nature; and ac<g ref="char:EOLhyphen"/>quir'd and infus'd virtue are not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or incon<g ref="char:EOLhyphen"/>ſiſtent; I have thruſt them into one definition, in which Divines and Philoſophers both agree: Now if we were determin'd irreſiſtibly either to Vice or Virtue, by any peremptory Decree of the Almightie's; this definition of Grace or Virtue, would be a vain and uſeleſs notion; and all the Divines and Philoſophers, that have been ſince the Creation, would have been great Cheats and Impoſtors: and all the excellent Diſcourſes to incite men to Virtue, or deter them from Vice, which they have penn'd with ſuch admirable Reaſon and Rhetoric, would be but idle and unprofitable Harangues; and as in<g ref="char:EOLhyphen"/>ſignificant to the impotent race and nature of men, as the practical Rules of Dancing to a
+<pb n="8" facs="tcp:98630:8"/>Cripple, or a Metaphyſical Lecture to a natu<g ref="char:EOLhyphen"/>ral Fool: to which I may alſo ſuperadd, that Virtue and Vice would be daſht together and confounded, were our Actions the reſult of neceſſity, occaſioned by any ſuch Decree; for as <hi>Juſtin Martyr</hi> ſaith very well,<note n="(a)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>If it be fa<g ref="char:EOLhyphen"/>tally Decreed, that one ſhould be good, another bad, the one cannot be approved or accepted, nor the other blam'd or cenſur'd:</hi> Now if any ſuch <hi>Abſolute De<g ref="char:EOLhyphen"/>crce</hi> ſhould be ſuppoſed to be paſſed in favour of any; we muſt either Aſſert, that God De<g ref="char:EOLhyphen"/>crees to Save them, be they never ſo leud and diſſolute, which is contrary to the whole Te<g ref="char:EOLhyphen"/>nour of the Goſpel; or elſe that God does irre<g ref="char:EOLhyphen"/>ſiſtibly determine them to the uſe of ſuch means, as muſt neceſſarily bring them to hea<g ref="char:EOLhyphen"/>ven; which would make men utterly uncapa<g ref="char:EOLhyphen"/>ble either of Reward or Puniſhment; for as <hi>Clemens Alexandrinus</hi> hath truely told us,<note n="(b)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Neither Rewards, nor Puniſhments are juſt, if the Soul hath not a free Power both to embrace and refuſe evil.</hi> Neither is it poſſible any man ſhould re<g ref="char:EOLhyphen"/>pent of doing what he could not but do, or of omitting to do, what was never in his power to effect, no more than that he cannot fly like a Bird, or move like an Angel: I muſt indeed confeſs, that <hi>it is God that worketh in us both to will and to do of his good pleaſure, Phil.</hi> 2.13. but this
+<pb n="9" facs="tcp:98630:8"/>is ſo far from taking away our power, that 'tis brought as a reaſon by St. <hi>Paul,</hi> why we ſhould work out our Salvation, ſpoken of in the twelfth verſe: God does indeed work it in us; but how? By giving us the knowledge of his promiſes, by exciting and ſtrengthening us by his Spirit: He works it who ſupplies us with all ſufficient means to work it; he does it, but not without us, not whilſt we lye like men aſleep, or like dead men in their graves: God works the Ability to Act, but not the Act it ſelf; for if he did, it would be his Act, not Ours; much leſs does he work it forcibly, and irreſiſtibly;</p>
+            <p>And though by his primitive and natural will, he would have all men happy; happi<g ref="char:EOLhyphen"/>neſs having been the very end of their Creati<g ref="char:EOLhyphen"/>on; and though he forbids ſin, and deteſts it, as contrary to his Eſſential Goodneſs; yet he may juſtly permit it; and the will of man may have in it ſelf a power for natural and ſinful actions: it may reſiſt Gods grace, it may obſtruct its workings and operations, it may receive the grace of God in vain; and <hi>Heb.</hi> 10.29. <hi>Do deſpite to the Spirit of Grace,</hi> and <hi>Jude</hi> 4. abuſe and <hi>turn the grace of God into wantonneſs:</hi> I ſhall conclude this particular, with
+<pb n="10" facs="tcp:98630:9"/>thoſe words of St. <hi>Cyril</hi> of <hi>Jeruſalem</hi>
+               <note n="(a)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>It is Gods part to beſtow Grace, but it is your parts (as ye are men) to receive and keep it.</hi>
+            </p>
+            <p>Thirdly, <hi>No Abſolute Decree of Election</hi> can be ſuppoſed to be made by God, becauſe he hath granted the will of man a Patent for Freedom; which freedom is incompatible with any ſuch Decree. We are not drawn by ſecret and invi<g ref="char:EOLhyphen"/>ſible wires, but move voluntarily, and from a principle within; we are not hurried by exter<g ref="char:EOLhyphen"/>nal accidents, but ſteer our own courſe; we are free Agents, and God made us ſo when he made us men; and our actions are voluntary, not neceſſary,<note n="(b)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Goodneſs</hi> (ſaith St. <hi>Baſil) is the work of our will and choice, not of neceſsity;</hi> if it could be wrought in us againſt our will, it could not be Goodneſs or Virtue: They who would have been wiſer than God, and ſeemed to murmur, that in their natural Conſtitution there was not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a neceſſity of being good, and an impoſſibility of being evil, did (as St. <hi>Baſil</hi> tells them)<note n="(c)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>neither love goodneſs, nor hate wickedneſs;</hi> and that in this vain deſire, to raiſe man to that pitch, which nothing but phanſie could ſet up, they much diſhonour'd him; and that in ſeeking to make him more than an Angel, they made him leſs than a man.</p>
+            <pb n="11" facs="tcp:98630:9"/>
+            <p>God made man after his own image, in<g ref="char:EOLhyphen"/>du'd him with a reaſonable Soul, having the uſe of Underſtanding, and freedom of will; he gave him power to conſider, and deliberate, to conſult and chooſe, whereby he was made maſter of himſelf, and Lord of his own acti<g ref="char:EOLhyphen"/>ons: for if God ſhould force the will of man, it were (in effect) a deſtroying the nature of his Creature, which the grace of God was never deſigned for, but rather to ſtrengthen and aſ<g ref="char:EOLhyphen"/>ſiſt it. We read indeed of infuſed Habits; and what then? Though we ſhould, as we may, grant that good habits are infuſed to us, yet they are not infuſed without our own concurrence: they are poured into us, not as water into a ciſtern, but as into living Veſſels, fitted and prepared for them; for if they were infuſed into us without our own aid or help, without our preparing our ſelves for their reception, they could never be loſt.</p>
+            <p>God onely uſes ſuch means to ſave us, as are neceſſary for one, who is to deal with rational Creatures, and ſuch as he intends either to re<g ref="char:EOLhyphen"/>ward or puniſh: He makes uſe of his Calls, his Promiſes, his Threatnings, his Judgments, his Grace Preventing, Exciting, and Aſſiſting; in a word, he uſes all means but violence and coaction: If we were under the ties and re<g ref="char:EOLhyphen"/>ſtraints
+<pb n="12" facs="tcp:98630:10"/>of neceſſity, or were overpowr'd by ſome ſecret irreſiſtible Cauſe, we ſhould not be ſo much Agents, as Patients, and be the objects of Compaſſion, rather than of cenſures or Penal Inflictions: from whence <hi>Porphiry</hi> was wont to ſay,<note n="(a)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>He that is moved by Force and Compulſion, is no leſs where he was, than if he had not been moved at all;</hi> for whatſoever alteration in appearance may for the preſent be made by Neceſſity and Violence, when the Compulſion is taken off, every thing returns to its firſt natural ſtate: But without peradventure in all moral Accounts, Man is to be ſuppoſed to be in that State, in which his own choice did firſt place him, and in which he would ſtill have been, had not vi<g ref="char:EOLhyphen"/>olence removed him: So that <hi>Seneca</hi> was in the right, when he ſaid<note n="(b)" place="margin">Magnum humanae imbecil<g ref="char:EOLhyphen"/>litatis patroci<g ref="char:EOLhyphen"/>nium neceſſitas, Quae quicquid cogit excuſat.</note> 
+               <hi>Neceſsity is the great Sanctuary of humane Infirmity, which excuſes all its Acts of Compulſion.</hi>
+            </p>
+            <p>God hath placed before every man Good and Evil, that <hi>he</hi>
+               <note n="(c)" place="margin">
+                  <g ref="char:V">Ʋ</g>t bonum non neceſſitate obiret, ſed vo<g ref="char:EOLhyphen"/>luntate.</note> 
+               <hi>might do good, not out of Neceſ<g ref="char:EOLhyphen"/>ſity, but willingly,</hi> ſaith St. <hi>Cyprian;</hi> for <hi>'tis no Commendation not to commit that Evil, which we had not the Power to Act,</hi>
+               <note n="(d)" place="margin">Nulla laus eſt non facere quod non potes.</note> ſaith <hi>Lactantius:</hi> Will you ſay a Lion is a Lamb, when he is within the Grates? Will you call an Eunuch chaſt? Or a man in fetters patient? Was <hi>Bajazet</hi> no
+<pb n="13" facs="tcp:98630:10"/>Tyrant when he was in the Iron Cage?</p>
+            <p>In this conſiſts our Obedience, that we ma<g ref="char:EOLhyphen"/>ny times do That which is contrary to our own inclinations; but that we always do That, which if we would, we might not have done: For 'tis impoſſible for any finite Creature, who hath not his compleatneſs and perfection with<g ref="char:EOLhyphen"/>in himſelf; to purchaſe Heaven upon other terms than theſe, <hi>that he might have loſt it:</hi> St. <hi>Au<g ref="char:EOLhyphen"/>guſtin,</hi> that great Champion for the grace of God, ſaith,<note n="(d)" place="margin">Homo poteſt peccare, &amp; Deum negare, ſed ſi no<g ref="char:EOLhyphen"/>lit non facit.</note> 
+               <hi>A man may Sin, and deny God, but he doth not unleſs he will:</hi> in a word, God <hi>Commands</hi> Obedience, but doth not <hi>Force</hi> it. In fine, if any ſhall be ſo irrational, as to main<g ref="char:EOLhyphen"/>tain the Neceſſity of ſinning, they run into that abſurd paradox of the Stoicks, and place all ſins upon the ſame level of equality, equalizing the ſmalleſt frailties and infirmities of humane Na<g ref="char:EOLhyphen"/>ture to the moſt horrid and flagitious crimes; they multiply ſins at a ſtrange rate, but withal lighten the weight, and extenuate the guilt of ſin, allow it to be onely a Notion, and inſtruct men to entertain ſlight thoughts of it; For prevention whereof it will be neceſſary to acquaint you, that all the Providences of God, how apt ſoe<g ref="char:EOLhyphen"/>ver they are, in their own Nature, to affect the Spirits, and awaken the Conſciences of
+<pb n="14" facs="tcp:98630:11"/>men; yet being intended by God onely as mo<g ref="char:EOLhyphen"/>tives, perſwaſives, and convictions; and not deſigned as inſtruments of violence to force the Soul, leave men ſtill in the Natural Liberty of their wills; and work in ſuch manner, as is fit for a reaſonable Soul, not leading it in chains, nor dragging it by Violence like a Slave. And St. <hi>Cyril</hi> of <hi>Jeruſalem</hi> ſpeaks the ſame ſenſe;<note n="(a)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>God is prone to Beneficence and Mercy, but yet he ex<g ref="char:EOLhyphen"/>pects that the will of every man ſhould accompany his Grace and Goodneſs, by making a good Choice,</hi> and this is rendred as the reaſon of mens being re<g ref="char:EOLhyphen"/>jected by God, <hi>Prov.</hi> 1.29. <hi>Becauſe they did not chooſe the fear of the Lord: Sin,</hi> as St. <hi>Cyril</hi> of <hi>Jeruſalem</hi> affirms, <hi>is</hi>
+               <note n="(b)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>An Evil, but Voluntary, Branch, that grows from free will;</hi> and that we ſin voluntarily, the Prophet tells us, <hi>Jer.</hi> 2.21. <hi>I had planted thee a noble Vine, wholly a right ſeed, how then art thou turned into a degenerate plant of a ſtrange Vine unto me?</hi> Upon which words the forenamed Father makes this Deſcant;<note n="(c)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi>
+               </note> 
+               <hi>The plantation was good, the fruit evil, and that evil was choſen, he that planted it therefore is not culpa<g ref="char:EOLhyphen"/>ble,</hi> becauſe it was planted to a good end, though willfully it brought forth bad fruit: for, as the Royal Preacher ſaith, <hi>Eccleſ.</hi> 7.29. <hi>God made man upright, but they have ſought out many inventions;</hi> ſo that you ſee plainly, man is ſo
+<pb n="15" facs="tcp:98630:11"/>ſet in the Horizon, either of Happineſs, or Mi<g ref="char:EOLhyphen"/>ſery, that he may betake himſelf to which of the two he pleaſes, and make himſelf either a Saint of Heaven, or a Fiend of Hell, either an Angel, or a Devil. God would not limit his happineſs, he left him power to encreaſe it, to poliſh and beautifie himſelf; or if he refuſe it, he gives him liberty to ruin himſelf; according to that of the Prophet, <hi>Hoſ.</hi> 13.9. <hi>O Iſrael thou haſt deſtroyed thy ſelf.</hi>
+            </p>
+            <p>Fourthly, <hi>No Abſolute Decree</hi> of Election can ever be ſuppoſed to have been made by God, becauſe Chriſt died for all; which could not be ſaid, if there were any ſuch Decree, onely to chooſe ſome few perſons to Eternal Life, and ex<g ref="char:EOLhyphen"/>clude all others: Now that Chriſt died for all, is clear and evident, from 1 <hi>Tim.</hi> 2.5, 6. <hi>For there is one God, and one Mediator between God and Men, the Man Chriſt Jeſus, who gave himſelf a ranſom for All,</hi> and (as it is in the 4th. verſe of that chapter) <hi>will have all men to be ſaved;</hi> the force of which words the Contra-Remonſtrants endeavour to avoid, by telling us, that the word <hi>[All]</hi> is to be taken there, not <hi>Pro ſingu<g ref="char:EOLhyphen"/>lis generum, ſed pro generibus ſingulorum;</hi> not for all of every kind, but for ſome few onely of every ſort and nation; which diſtinction of
+<pb n="16" facs="tcp:98630:12"/>theirs cuts the ſinews of the Apoſtles Exhortati<g ref="char:EOLhyphen"/>on, and enervates the ſtrength of his reaſon<g ref="char:EOLhyphen"/>ing: For theſe words of his <hi>[who will have all men to be ſaved]</hi> are uſed by St. <hi>Paul</hi> as an Ar<g ref="char:EOLhyphen"/>gument, why Prayers and Supplications are to be made, not onely for Kings, and all that are in <hi>Authority, verſe</hi> 2. but alſo for <hi>All Men, verſe</hi> 1, and that becauſe <hi>God will have all men to be Saved:</hi> Now if theſe words <hi>[All Men]</hi> were to be underſtood of ſome few onely of every ſort and Nation, the Scripture might have ſaid with far more reaſon, that God will have <hi>All Men</hi> to be damned; ſince that of every Nation and Condition, (according to the Contra-Re<g ref="char:EOLhyphen"/>monſtrants) the number of the damned does far exceed the number of the ſaved; and reaſon re<g ref="char:EOLhyphen"/>quires, that the Denomination ſhould be taken from the Major part. Our ſafeſt poſition then concerning Chriſts death and ſatisfaction, is this, that he died for <hi>All:</hi> For thoſe that <hi>Periſh,</hi> as well as for thoſe that <hi>Periſh</hi> not; <hi>Luk.</hi> 19.10. For all that were loſt: That Chriſt died for the E<g ref="char:EOLhyphen"/>lect, the Contra-Remonſtrants themſelves will grant; and that he died alſo for Caſtaways, and thoſe that <hi>Periſh,</hi> is clear and evident from 1 <hi>Cor.</hi> 8.11. where the Apoſtle tells us, that unleſs we temper our Chriſtian Liberty with prudent Charity, 'tis poſſible that through our
+<pb n="17" facs="tcp:98630:12"/>knowledge a weak Brother may periſh for whom Chriſt died: One for whom Chriſt di<g ref="char:EOLhyphen"/>ed (if St. <hi>Paul</hi> ſpeaks truth) may periſh, and be a caſtaway; and the words in the following twelfth verſe do more ſtrongly confirm this Truth; where the Apoſtle ſaith, <hi>when ye ſin ſo againſt the Brethren, and wound their weak Conſcien<g ref="char:EOLhyphen"/>ces, ye ſin againſt Chriſt,</hi> to whom they were ſo dear, that he was willing to dye for their Sal<g ref="char:EOLhyphen"/>vation; and that therefore we ſin againſt Chriſt himſelf, whilſt by our imprudent uſe of our Chriſtian Liberty, we rob him of any of thoſe, whom he <hi>Redeemed, not with Corruptible things as Silver and Gold but his moſt pretious Blood.</hi> 1 <hi>Peter</hi> 1.18. Chriſt taſted Death for every man? for the ungodly; <hi>Romans</hi> 5.6. <hi>In due time Chriſt died for the ungodly?</hi> for the unjuſt, 1 <hi>Pet.</hi> 3.18. <hi>For Chriſt alſo hath once ſuffered for ſins, the juſt for the unjust, that he might bring us to God.</hi> Chriſt died for <hi>Judas</hi> as well as <hi>Peter,</hi> as <hi>Judas</hi> and <hi>Peter</hi> were both ſinners, <hi>quoad Im<g ref="char:EOLhyphen"/>petrationem Reconciliationis,</hi> as to the Impetration of Reconciliation, which was obtained for All, promiſcuouſly, and without diſtinction, as Sinners: But onely the Faithful, Penitent, and Obedient, are concerned in the Fruits, and good Effects, of this Reconciliation; of which
+<pb n="18" facs="tcp:98630:13"/>
+               <hi>Judas</hi> could not participate, becauſe through his own default, he was an Infidel, an Unbelie<g ref="char:EOLhyphen"/>ver: The Death of Chriſt was not as Benefi<g ref="char:EOLhyphen"/>cial to <hi>Judas,</hi> as to <hi>Peter;</hi> becauſe <hi>Judas</hi> ſuper<g ref="char:EOLhyphen"/>added a new Infidelity to his former ſins, which <hi>Peter</hi> did not.</p>
+            <p>Chriſt hath purchaſed Salvation for as many as will believe it; <hi>He ſhed as much Blood for Ju<g ref="char:EOLhyphen"/>das</hi> as for <hi>Peter. Peter</hi> Believed, and Repent<g ref="char:EOLhyphen"/>ed and was therefore ſaved; <hi>Judas</hi> would not believe, and was therefore condemned.</p>
+            <p>And now let me remove one <hi>Objection</hi> of the Contra-Remonſtrants againſt the univerſality of Chriſts ſatisfaction, and I will conclude this particular.</p>
+            <p>They Object,</p>
+            <p>
+               <q>That the Death of Chriſt is, in it ſelf, a ſufficient ranſom for the whole World, if we look upon the intrinſic worth and value of it; but that Gods Decree, and Chriſt's in<g ref="char:EOLhyphen"/>tention was, that a few perſons onely ſhould recieve the benefit of it.</q>
+            </p>
+            <p>What is this better, than to caſt a Reflection upon Gods Juſtice, and blemiſh his Goodneſs? For, if God (after he hath declared in Scrip<g ref="char:EOLhyphen"/>ture, that 1 <hi>John</hi> 2.2. <hi>Chriſt is the propitiation
+<pb n="19" facs="tcp:98630:13"/>for the Sins of the whole World</hi>) ſhould ſecretly Reſolve and Decree, not to extend the bene<g ref="char:EOLhyphen"/>fits of his Death to one half of it, but confine them onely to ſome few <hi>Select Perſons;</hi> we might juſtly impeach his Truth and Sincerity, queſtion his Juſtice, and ſay <hi>Gen.</hi> 18.25. <hi>Shall not the Judge of all the Earth do right?</hi> If the Death of Chriſt were ſufficient for All, and yet All were not redeemed by it; the impediment muſt be either in God, who will not accept this ranſom, or in Chriſt that offers it; there being no impediment in thoſe, for whom 'tis offer'd; which, if any, muſt be their ſins: but they can be no impediment, becauſe the Ranſom was paid to take away ſin, according to that of <hi>John</hi> 1.29. <hi>Behold the Lamb of God, that takes away the ſins of the World;</hi> therefore the impediment muſt be in God; who will not allow that Chriſt's death ſhould be ſufficient for all; and ſo Gods <hi>Secret</hi> Will muſt be re<g ref="char:EOLhyphen"/>pugnant to his <hi>Revealed Will</hi> in Scripture; which but to imagine, is to abuſe his Sincerity and Juſtice; and make him like the Inhabi<g ref="char:EOLhyphen"/>tants of <hi>Biſcay;</hi> who, when any of the <hi>Spa<g ref="char:EOLhyphen"/>niſh</hi> Kings come into the Frontiers of their Countrey, cuſtomarily proffer him ſome few ſmall pieces of Braſs, called <hi>Maravides;</hi> but
+<pb n="20" facs="tcp:98630:14"/>tell him withal, that he muſt not take them: So theſe men make God offer the Blood of his Son to all mankind for their Redemption; but then they ſay his <hi>ſecret Will</hi> and <hi>Decree</hi> is, that they ſhall not <hi>All</hi> take or receive, the benefit of it. And what is this better than to make God injure his own Juſtice, and trapan and mock his poor Creatures?</p>
+            <p>You ſee then there can be no impediment in God; and as not in him, ſo neither in Chriſt, that offers this Ranſom: For if, as the <hi>Cal<g ref="char:EOLhyphen"/>viniſts</hi> affirm, the ſufficiency of the Ranſom were, in it ſelf, the Cauſe, that that might be rightly ſaid to be given for <hi>All,</hi> which is onely given for ſome few, becauſe in it ſelf it was ſufficient for <hi>All,</hi> though God would not allow, that <hi>All</hi> ſhould enjoy the benefit of that ſufficiency; then Chriſt might be ſaid to have died, even for Infidels, and Unbelievers, as ſuch; becauſe the price of Chriſt's blood, if conſidered in it ſelf, in its own worth and va<g ref="char:EOLhyphen"/>lue, is ſufficient even for the Redemption of theſe; when yet, according to Gods revealed will in Scripture, though Chriſt obtained Re<g ref="char:EOLhyphen"/>conciliation for all, the benefit thereof accrues onely to thoſe, that Repent of their ſins, and
+<pb n="21" facs="tcp:98630:14"/>apply that Reconciliation to themſelves in par<g ref="char:EOLhyphen"/>ticular, by Faith and Obedience; and this brings me to the Fifth reaſon, <hi>Why no ſuch Ab<g ref="char:EOLhyphen"/>ſolute Decree of Election, to Eternal Glory,</hi> can ever be ſuppoſed to be made by God;</p>
+            <p>And that is,</p>
+            <p>Fifthly, Becauſe Chriſt, who died for <hi>All,</hi> ſhed forth his Blood, upon terms befitting Mercy and Juſtice, which could never have been, if there were any ſuch Decree; and this invites me to take in the</p>
+            <p>Second <hi>General Part</hi> in the Text; where we have the Author, and Procurer, of this Decree of Election, namely Chriſt; <hi>He hath choſen us in him, in Chriſt; Matthew</hi> 26.28. this, ſaith <hi>Chriſt, is my Blood of the New Teſtament, which is ſhed for many, for the remiſsion of ſins;</hi> and this effuſion was, upon terms befitting Mercy and Juſtice: For though God was mercifully af<g ref="char:EOLhyphen"/>fected towards man, yet out of reſpect to his Truth and Veracity, he would not allow his Mercy to ſave any, till his Juſtice was ſatis<g ref="char:EOLhyphen"/>fied; and therefore he made <hi>Chriſt,</hi> who ſhed his blood for us, the Foundation of our Electi<g ref="char:EOLhyphen"/>on; and that not in the ſenſe of the Contra-Remonſtrants;
+<pb n="22" facs="tcp:98630:15"/>who tell us, that God firſt de<g ref="char:EOLhyphen"/>creed the Salvation of ſome few Select perſons, and then the giving of Chriſt, as a means to bring this <hi>Decree</hi> to paſs; ſo that with them, God the Father is the Author of Our Election, Chriſt but the inſtrument or executor, where<g ref="char:EOLhyphen"/>as (if we will not derogate from the power of Chriſt) he is to be ſo held the Foundation of our Election, as to be the Author and Procurer thereof: Chriſt paid the large ſcore of our ſins by his precedent ſatisfaction, before God would chooſe any perſon to Life Eternal; not that God could not have acted otherwiſe, but that he might have ſome regard to his abuſed Juſtice, before he opened a door of Mercy: 'Tis true indeed, that his Will and deſire, to ſave Sinners, went before either the Actual giving, or his Decree to give them a Saviour; for <hi>John</hi> 3.16. God is ſaid to have loved the World, and out of his love to have given his Son: but That his Will, or Deſire, was no peremptory Decree to ſave ſinners; for then the whole ſatisfaction of Chriſt would have been vain and unprofitable; becauſe there would have been no need of His being recon<g ref="char:EOLhyphen"/>ciled, who did before love peremptorily, and with ſo great a Love, as to confer eternal Life
+<pb n="23" facs="tcp:98630:15"/>upon thoſe, who were the Objects of it: ſo that Chriſt may be ſtyled the Foundation of Gods Decree of Election upon a double ac<g ref="char:EOLhyphen"/>count.</p>
+            <p>Firſt, Becauſe unleſs Gods Decree of giving a Mediator had gone before, there had been no place for his Decree of ſaving them, who believe in this Mediator.</p>
+            <p>Secondly, Becauſe this Mediator ſatisfied the Divine Juſtice, which before obſtructed God's being ſimply Reconciled to ſinners; ſo that That ſatisfaction to Gods Juſtice being firſt made, God reſolved afterwards to carry on the whole buſineſs of our Salvation, by that very Mediator, by whom his Mercy and Juſtice were reconciled; by that Mediator, who <hi>Titus</hi> 2.14. <hi>Gave himſelf for us, that he might redeem us from all iniquity.</hi> Now to what end did Chriſt bleed a whole Life for ſinners, if God had before determined, that onely ſome few ſelect perſons, tyed faſt to him by an <hi>Abſolute Decree,</hi> ſhould taſt the benefits of his Death? Hear therefore what <hi>Clemens Romanus</hi> ſays in this caſe; let us conſider how pretious his blood is to God; which being ſhed for
+<pb n="24" facs="tcp:98630:16"/>our Salvation,<note n="(a)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <q>brought to the whole World the grace of Repentance:</q> You ſee then, that whoever eſpouſes the Doctrine, of an <hi>ABSOLUTE DECREE,</hi> ſeems to contract the beams of Gods Love, and Phi<g ref="char:EOLhyphen"/>lanthropy, which are univerſally diffuſed upon all, who do not (as that ſullen Tree in <hi>India</hi> does it leaves againſt the beams of the Sun) willfully cloſe their eyes againſt them.</p>
+            <p>There is no perſon now under Heaven, for whom Chriſt did not dye; Chriſt's Death is no encloſure, no Monopoly for ſome few, it is common to <hi>All;</hi> His blood is a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, an univerſal remedy for the ſins of the whole World.</p>
+            <p>I now come to the Uſes that may be made of this whole Diſcourſe; is it ſo that no Ab<g ref="char:EOLhyphen"/>ſolute Decree of Election can be inferr'd either from this or any other Text of Scripture? this then may ſerve,</p>
+            <p>
+               <hi>USE,</hi> I.</p>
+            <p>Firſt, To comfort thoſe, who are under the diſmal Apprehenſions, that they are (by ſome ſecret Decree of Gods) made Reprobates to all Eternity, thereby they are ſunk into
+<pb n="25" facs="tcp:98630:16"/>the very gulph of Deſpair; which makes them phanſie the terrors of the Divine venge<g ref="char:EOLhyphen"/>ange ſet in Battle Array againſt them, and the Curſes of the Law thundring out their ſentence of condemnation: and the mouth of Hell gap<g ref="char:EOLhyphen"/>ing wide, to ſwallow them up and devour them: theſe frightful apprehenſions do con<g ref="char:EOLhyphen"/>tinually haunt them, like ſo many ghoſts and Apparitions; and follow them, like their own ſhadows. To whom let me return this an<g ref="char:EOLhyphen"/>ſwer; that this their fear is groundleſs and un<g ref="char:EOLhyphen"/>reaſonable; and that it is onely, either ſome ſudden ſtorm raiſed within them by the power and ſubtilty of the Devil; or elſe it is the re<g ref="char:EOLhyphen"/>ſult of their Melancholly, which is of a very impreſſive temper, and Poetic Nature; and is apt, like a dark room, to receive in the I<g ref="char:EOLhyphen"/>mages of Objects without, in very ſtrange and monſtrous Shapes and Repreſentations; let them therefore be couragious, and rouze up their fainting and deſponding Souls; for there is help at hand; there is an immoveable Rock for them to Anchor upon, in the midſt of theſe waves of deſpair, which will not ſuffer them to be quite overwhelmed by them; they have a Merciful and Loving Saviour, who by the ſacrifice of himſelf hath purged away their
+<pb n="26" facs="tcp:98630:17"/>ſins, and delivered them from the curſe of the Law, and the Wrath to come; and ſatisfied the Divine Juſtice, and obtained Reconciliati<g ref="char:EOLhyphen"/>on and pardon for them: O then if there be any conſolation in Chriſt, let them raiſe up their drooping and dying Spirits! Let them not Dye, onely out of a fear and Apprehenſion that they muſt Dye! Let them not determine and devote themſelves to Death by a fatal Ne<g ref="char:EOLhyphen"/>ceſſity! God hath paſſed no Abſolute Decree of Reprobation againſt them, and why then ſhould they Enact one againſt themſelves? If they will be ſaved, they may; God affords them the helps of his Grace and Spirit; Let them not therefore ſhut the mouth of the bot<g ref="char:EOLhyphen"/>tomleſs pit upon themſelves, nor (like content<g ref="char:EOLhyphen"/>ed Vaſſals) kiſs their chains, and hug their fetters being their own Jailors. The door is open, they may come out, there is Light e<g ref="char:EOLhyphen"/>nough to guide them out, and all the darkneſs, they were in, ſhall vaniſh at the brightneſs, of Gods Grace and Mercy, as a Miſt before the Sun: Let them therefore rowl away thoſe Grave-ſtones, they have pulled upon them<g ref="char:EOLhyphen"/>ſelves, by the ſtrength of their phanſie and imagination! Which they will be the better enabled to Do; if they will but conſider, that
+<pb n="27" facs="tcp:98630:17"/>they, who ſincerely endeavour to pleaſe God, and keep his Commandments, have not the leaſt ground from Scripture, to ſuſpect any ſe<g ref="char:EOLhyphen"/>cret Decree of Gods, that ſhall cauſe their Ruin or Damnation: and whatever the ſecret Decrees of God are, concerning the Eternal ſtate of men, they muſt not be made by them, the ſtandard and rule, either of their Duty or Comfort: Let them not therefore ſearch into Gods ſecret Decrees, but his Revealed Laws; and ſince he hath given them rules of Life, which (upon the ſevereſt penalties) he requires them to Study and Practice: let them not turn aſide from theſe, and make it their buſineſs to trace his Cabinet Counſels: let them not gaze at the Stars to read their deſtiny, and not look to, but diſregard their feet, and by that negli<g ref="char:EOLhyphen"/>gence experiment the worſt Fate, they could have portended; For, I think, we may ſay, our wild fancies about Gods Decrees, have in event <hi>Reprobated</hi> and <hi>Damned</hi> more, than thoſe Decrees, upon which they are ſo willing to charge their ruin. And as the thoughts of Gods Abſolute Decree of Reprobation ſhould not drive men into deſpair, on the one hand; ſo neither ſhould the thoughts of their being cho<g ref="char:EOLhyphen"/>ſen by Gods Abſolute Decree of Election make
+<pb n="28" facs="tcp:98630:18"/>them preſumptuous on the other; and this brings me to my</p>
+            <p n="2">II. <hi>USE,</hi> or uſe of Reproof to thoſe <hi>Pre<g ref="char:EOLhyphen"/>deſtinarians,</hi> who think they are ſo faſt ty'd to God by his Abſolute Decree of Election to E<g ref="char:EOLhyphen"/>ternal Glory, and that they are ſuch ſpecial Confidents and Favorites of Heaven, that all their ſins ſhall not be able to ſeparate them from the Love and Favour of God: they have, through the falſe perſpective of preſumption ſeen their names written indelibly in the Book of Life, and are therefore of opinion, that all their Provocations and Rebellions againſt Hea<g ref="char:EOLhyphen"/>ven, cannot diſturb their Horoſcope, nor re<g ref="char:EOLhyphen"/>verſe their fatal and deſtin'd bliſs and happineſs; and herein they reſemble the Scholars oft <hi>Marcus</hi> in <hi>Irenaeus,</hi> who pretended, they were <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, naturally ſpiritual, and that they could be no more blemiſht or tainted, by all the ſins and debaucheries in the World, than the Sun-beams can be prophaned or ſullied by a Dunghill: but let me tell thoſe, who have eſpouſed this dan<g ref="char:EOLhyphen"/>gerous Opinion; that continuance in ſin, and Gods favour, are inconſiſtent; that there is no Abſolute Decree of the Almighties will ſecure Heaven to them; their Holineſs is the beſt ſe<g ref="char:EOLhyphen"/>curity,
+<pb n="29" facs="tcp:98630:18"/>that they can give, or God will take for it: This is the Tenour of the Goſpel, and this is the ſumm of our Commiſſion, that are the Preachers of it: We cannot give out Copies of Gods Decrees, or give men an immediate Aſſurance of Heaven, but we muſt proceed, by a juſt inference from thoſe Conditions, and Qualifications, which the Goſpel expreſſes: We ſearch not the Records of Heaven, but the Books of the Scripture; whereby <hi>Iſa.</hi> 3.10, 11. We may <hi>ſay to the Righteous, that it ſhall be well with him; and to the wicked, that it ſhall be ill with him;</hi> which is the ſame ſenſe with that St. <hi>Auguſtin</hi> ſpake when he declaimed againſt the Fate and Neceſſity of the Stoicks,<note n="(a)" place="margin">Deus Prae<g ref="char:EOLhyphen"/>deſtinavit boni<g ref="char:EOLhyphen"/>tati mercedem tribuere malum punire.</note> 
+               <hi>God hath De<g ref="char:EOLhyphen"/>creed to reward Goodneſs, and puniſh wickedneſs:</hi> If therefore you deſire that Heaven and Happineſs ſhould make their approaches to you, make you your approaches to God in Holineſs; <hi>Jam.</hi> 4.8. <hi>Draw nigh to God, and he will draw nigh to you.</hi> This is the ſtanding Law of Heaven, and God will not recede one Iota or tittle from it: For, it is not becauſe our Brains are filled with a ſtrong Conceit of Gods Eternal Love to us, or becauſe we ſwell into a mighty bulk with aiery fancies and preſumptions of our Election, that we become the more dear and acceptable
+<pb n="30" facs="tcp:98630:19"/>to God; unleſs our ſins ſink, as our Hopes keep up, unleſs our ſins Ebb as much as our Hopes do flow: It is not a pertinacious imagi<g ref="char:EOLhyphen"/>nation, of our Names being enrolled in the Book of Life, or of the Debt-books of Heaven being croſſed, that can Entitle us to Heaven; Nor will the fancying our ſins waſht away with the blood of Chriſt, whilſt the foul ſtains thereof remain in our Souls, make us ever the Cleaner; he who thinks, that God is ſo cer<g ref="char:EOLhyphen"/>tainly eſpouſed to his ſoul, as to be bound to take it for better, for worſe, being far from the Kingdom of God: To which Kingdom that we may All at length arrive, God preſerve us all from this fatal and dangerous Opinion, either of Abſolute and Peremptory Election, or Reprobation; and this we beg of him for the ſake of that Mediator, whoſe Blood was a Propitiation for the ſins of the Whole World; to whom with the Father and the Holy Spirit, be all Honour, and Glory, and Praiſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:98630:19"/>
+            <head>Three Sermons lately publiſhed by the ſame Author and ſold by <hi>Ben. Billingſley.</hi>
+            </head>
+            <p n="1">1 A Sermon Preached before the Right Ho<g ref="char:EOLhyphen"/>nourable the Lord Mayor and Court of Aldermen of the City of <hi>London</hi> at <hi>Guild-hall.</hi>
+            </p>
+            <p n="2">2 The neceſſity of Receiving the Holy Sa<g ref="char:EOLhyphen"/>crament, declared in a Sermon at a Conference of the ſeveral Miniſters of the Deanry of <hi>Braug<g ref="char:EOLhyphen"/>hin,</hi> in the County of <hi>Hertford,</hi> appointed by the Right Reverend Father in God <hi>Henry</hi> Lord Biſhop of <hi>London</hi> to be held at <hi>Ware.</hi>
+            </p>
+            <p n="3">3. The great Excellency and Uſefulneſs and Neceſſity of humane Learning, declared in a Sermon preached before the Univerſity, at Great St. <hi>Maries</hi> Church in <hi>Cambridge, Aug.</hi> the 7th. 1681.</p>
+            <p>As alſo another by an Ingenious Author.</p>
+            <p>The <hi>Italian</hi> Ship or <hi>Pauls</hi> Tranſportation to <hi>Rome</hi> a Diſcourſe on <hi>Acts</hi> the 27 and 15 made on <hi>March</hi> the 20th. 1681. by <hi>Will. Ramſey</hi> B. D. and then Lecturer in <hi>Iſleworth</hi> in <hi>Middleſex.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
